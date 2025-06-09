@@ -8,6 +8,15 @@ Built with a focus on a clean user interface and robust data management, this pr
 
 ---
 
+## 🧑‍🤝‍🧑 Team Members
+
+This project was a collaborative effort, developed alongside my talented team members:
+
+* **[Daniel Anisoreac]** - GitHub: **[@DAnisoreac](https://github.com/DAnisoreac)**
+* **[Jayesh Patel]** - GitHub: **[@Jayp317](https://github.com/Jayp317)**
+
+---
+
 ## ✨ Key Features
 
 * **Course Creation & Management:** Lecturers can dynamically create new courses by providing a course code, name, and their own name. All existing courses are displayed in a clean, scrollable list on the main screen.
@@ -42,8 +51,11 @@ Built with a focus on a clean user interface and robust data management, this pr
 
 ---
 
-## 📄 License
+## 📄 Copyright and Licensing
+Copyright (c) 2025 [Sushant Jasra Kumar]
 
-* © [2025] [Sushant Jasra Kumar] All Rights Reserved.
+The code for all projects in this portfolio is licensed under the **[MIT License](https://github.com/sushant1203/sushant1203/blob/main/LICENSE)**.
+
+All non-code assets, including PDF documents, images, and visual designs, are dedicated to the public domain under the **[Creative Commons Zero v1.0 Universal (CC0 1.0)](https://github.com/sushant1203/sushant1203/blob/main/LICENSE2)**.
 
 ---
